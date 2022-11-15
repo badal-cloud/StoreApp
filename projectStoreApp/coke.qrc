@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/coke">
+        <file>coke.jpeg</file>
+    </qresource>
+</RCC>
